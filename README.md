@@ -12,6 +12,7 @@ Digispark
 https://www.amazon.co.jp/HiLetgo-Digispark-Kickstarter-ATTINY85-Arduino%E3%81%AB%E5%AF%BE%E5%BF%9C%EF%BC%882%E5%80%8B%E3%82%BB%E3%83%83%E3%83%88%EF%BC%89/dp/B0154PL3QA
 ![image](https://user-images.githubusercontent.com/1894619/130328403-dc810749-2e8a-4ce6-b83e-15e1b3575011.png)
 
+![DigisparkBlade](https://user-images.githubusercontent.com/1894619/130329641-5447f99f-126a-4186-a2db-aedc090d598a.png)
 
 https://youtu.be/m1EmuZv7tr0
 ![image](https://user-images.githubusercontent.com/1894619/130328542-02978f8d-d207-4d11-964f-95fa18ab50a6.png)
